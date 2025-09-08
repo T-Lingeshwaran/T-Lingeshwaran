@@ -2,7 +2,7 @@
 **T-Lingeshwaran · he/him**  
 Email: t.lingeshwaranthavaselvam12@gmail.com  
 LeetCode: [https://leetcode.com/T-Lingeshwaran/](https://leetcode.com/T-Lingeshwaran/)
-
+LinkedIn: [https://www.linkedin.com/in/lingeshwaran-thavaselvan](https://www.linkedin.com/in/lingeshwaran-thavaselvan)
 ---
 
 ## 💻 About Me
@@ -36,6 +36,7 @@ I'm a passionate **Data Science & Analytics** enthusiast. I enjoy exploring data
 ## 📫 How to reach me
 - Email: t.lingeshwaranthavaselvam12@gmail.com  
 - LeetCode: [https://leetcode.com/T-Lingeshwaran/](https://leetcode.com/T-Lingeshwaran/)
+- LinkedIn: [https://www.linkedin.com/in/lingeshwaran-thavaselvan](https://www.linkedin.com/in/lingeshwaran-thavaselvan)
 
 ---
 
