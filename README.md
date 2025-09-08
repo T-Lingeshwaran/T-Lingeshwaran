@@ -11,7 +11,7 @@ I'm a passionate **Data Science & Analytics** enthusiast. I enjoy exploring data
 ---
 
 ## 🛠 Skills
-- **Programming & Analysis:** Python, SQL  
+- **Programming & Analysis:** Python, SQL, Java, C++
 - **Data Manipulation:** Basic Pandas, NumPy  
 - **Visualization:** Basic charts in Jupyter Notebook  
 - **Statistics & Probability:** Fundamental concepts  
